@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --font-display: "Space Grotesk", sans-serif;
+
+  --color-tactical-black: #0A0A0A;
+  --color-tactical-gray: #1A1A1A;
+  --color-tactical-red: #C00000;
+  --color-tactical-accent: #E5E5E5;
+}
+
+@layer base {
+  body {
+    @apply bg-tactical-black text-tactical-accent font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold tracking-tight;
+  }
+}
+
+.glass-panel {
+  @apply bg-tactical-gray/80 backdrop-blur-md border border-white/10;
+}
+
+.tactical-button {
+  @apply px-8 py-3 font-display font-bold uppercase tracking-wider transition-all duration-300 active:scale-95;
+}
+
+.tactical-button-primary {
+  @apply bg-tactical-red text-white hover:bg-red-700 shadow-[0_0_15px_rgba(192,0,0,0.3)];
+}
+
+.tactical-button-secondary {
+  @apply border border-tactical-accent text-tactical-accent hover:bg-tactical-accent hover:text-tactical-black;
+}
