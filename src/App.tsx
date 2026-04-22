@@ -4,7 +4,7 @@ export default function App() {
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
       <div style={{ margin: "30px" }}>
-  <h2>PRODUCT NAME</h2>
+  <h2>Rifle Wall Holder</h2>
 
   <a
     href="https://redneck-ammunition-llc.square.site/product/ar15-wall-mount-rifle-wall-holder-m-lok-compatible-gun-mount-tactical-storage-display-space-saving-rifle-rack-redneck-ammunition/L2O5DLPWHHACWX6LYN3DUPPA?cp=true&sa=true&sbp=false&q=false"
@@ -18,7 +18,7 @@ export default function App() {
       borderRadius: "6px"
     }}
   >
-    Buy Now – $XX.XX
+    Buy Now – $16.99
   </a>
 </div>
 <div style={{ margin: "30px" }}>
