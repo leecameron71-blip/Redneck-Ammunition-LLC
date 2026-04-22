@@ -4,6 +4,24 @@ export default function App() {
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
       <div style={{ margin: "30px" }}>
+  <h2>Tactical Rail Protection</h2>
+
+  <a
+    href="https://redneck-ammunition-llc.square.site/product/ar15-rail-cover-set-top-bottom-tactical-rail-protection-redneck-ammunition/BWTD5DJQ2SWVBTE6VCTWDXSO?cp=true&sa=true&sbp=false&q=false"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      padding: "12px 20px",
+      background: "red",
+      color: "white",
+      textDecoration: "none",
+      borderRadius: "6px"
+    }}
+  >
+    Buy Now – $24.99
+  </a>
+</div>
+      <div style={{ margin: "30px" }}>
   <h2>Low Profile Angled Grip </h2>
 
   <a
