@@ -16,7 +16,7 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px",
-      marginTop: "10px"
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -36,7 +36,7 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
-      marginTop: "10px"
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -55,8 +55,8 @@ export default function App() {
       background: "red",
       color: "white",
       textDecoration: "none",
-      borderRadius: "6px"
-      marginTop: "10px"
+      borderRadius: "6px",
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -74,8 +74,8 @@ export default function App() {
       background: "red",
       color: "white",
       textDecoration: "none",
-      borderRadius: "6px"
-      marginTop: "10px"
+      borderRadius: "6px",
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -94,8 +94,8 @@ export default function App() {
       background: "red",
       color: "white",
       textDecoration: "none",
-      borderRadius: "6px"
-      marginTop: "10px"
+      borderRadius: "6px",
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -113,8 +113,8 @@ export default function App() {
       background: "red",
       color: "white",
       textDecoration: "none",
-      borderRadius: "6px"
-      marginTop: "10px"
+      borderRadius: "6px",
+      marginTop: "10px",
       display: "inline-block"
     }}
   >
@@ -132,8 +132,8 @@ export default function App() {
             background: "red",
             color: "white",
             textDecoration: "none",
-            borderRadius: "6px"
-            marginTop: "10px"
+            borderRadius: "6px",
+            marginTop: "10px",
        display: "inline-block"
           }}
         >
