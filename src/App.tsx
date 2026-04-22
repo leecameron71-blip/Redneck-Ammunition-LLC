@@ -4,6 +4,24 @@ export default function App() {
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
       <div style={{ margin: "30px" }}>
+  <h2>Low Profile Angled Grip </h2>
+
+  <a
+    href="https://redneck-ammunition-llc.square.site/product/m-lok-hand-stop-for-ar15-low-profile-angled-grip-tactical-rail-stop-lightweight-rifle-control-redneck-ammunition/GSUGXR6722XBAZUTYAOOQAFL?cp=true&sa=true&sbp=false&q=false"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      padding: "12px 20px",
+      background: "red",
+      color: "white",
+      textDecoration: "none",
+      borderRadius: "6px"
+    }}
+  >
+    Buy Now – $14.99
+  </a>
+</div>
+      <div style={{ margin: "30px" }}>
   <h2>Quick Detach Sling Adapter</h2>
 
   <a
