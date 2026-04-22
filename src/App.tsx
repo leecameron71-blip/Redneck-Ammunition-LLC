@@ -3,7 +3,7 @@ export default function App() {
     <div style={{ textAlign: "center", background: "#111", color: "white", padding: "40px" }}>
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "500px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Tactical Rail Protection</h2>
 
   <a
