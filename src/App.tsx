@@ -3,7 +3,7 @@ export default function App() {
     {
       name: "Tactical Rail Protection",
       price: "$24.99",
-      link: "PASTE_RAIL_COVER_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/ar15-rail-cover-set-top-bottom-tactical-rail-protection-redneck-ammunition/BWTD5DJQ2SWVBTE6VCTWDXSO?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Low Profile Angled Grip",
