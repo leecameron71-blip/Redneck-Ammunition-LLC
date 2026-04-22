@@ -18,7 +18,7 @@ export default function App() {
             borderRadius: "6px"
           }}
         >
-          Buy Now – $24.99
+          Buy Now – $14.99
         </a>
       </div>
 
