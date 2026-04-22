@@ -29,7 +29,7 @@ export default function App() {
     {
       name: "Rifle Stand",
       price: "$24.99",
-      link: "PASTE_DISPLAY_STAND_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/ar15-display-stand-rifle-stand-for-ar-platform-gun-display-stand-redneck-ammunition/RGRPRQWONNIJGEB4WJJAYMQF?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "M-LOK Hand Stop",
