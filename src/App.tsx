@@ -3,7 +3,7 @@ export default function App() {
     <div style={{ textAlign: "center", background: "#111", color: "white", padding: "40px" }}>
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Tactical Rail Protection</h2>
 
   <a
@@ -24,7 +24,7 @@ export default function App() {
     Buy Now – $24.99
   </a>
 </div>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Low Profile Angled Grip </h2>
 
   <a
@@ -45,7 +45,7 @@ export default function App() {
     Buy Now – $14.99
   </a>
 </div>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Quick Detach Sling Adapter</h2>
 
   <a
@@ -65,7 +65,7 @@ export default function App() {
   >
     Buy Now – $12.99
   </a></div>
-<div style={{ margin: "100px 0" }}>
+<div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Tactical Rifle Stop</h2>
 
   <a
@@ -86,7 +86,7 @@ export default function App() {
     Buy Now – $14.99
   </a>
 </div>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Rifle Wall Holder</h2>
 
   <a
@@ -107,7 +107,7 @@ export default function App() {
     Buy Now – $16.99
   </a>
 </div>
-<div style={{ margin: "100px 0" }}>
+<div style={{ margin: "50px 0" }}>
   <h2 style={{ marginBottom: "10px"}}>Rifle Stand</h2>
   <a
     href="https://redneck-ammunition-llc.square.site/product/ar15-display-stand-rifle-stand-for-ar-platform-gun-display-stand-redneck-ammunition/RGRPRQWONNIJGEB4WJJAYMQF?cp=true&sa=true&sbp=false&q=false"
@@ -127,7 +127,7 @@ export default function App() {
     Buy Now – $24.99
   </a>
 </div>
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
         <h2 style={{ marginBottom: "10px"}}>M-LOK Hand Stop</h2>
         <a
           href="https://redneck-ammunition-llc.square.site/product/m-lok-mounting-kit-ar15-mlok-hardware-set-rail-attachment-system-tactical-accessories-lightweight-durable-5-pack-redneck-ammunition/LESC4JGK4CAZNJWY5KNPENUO?cp=true&sa=true&sbp=false&q=false"
@@ -148,17 +148,17 @@ export default function App() {
         </a>
       </div>
 
-      <div style={{ margin: "100px 0" }}>
+      <div style={{ margin: "50px 0" }}>
         <h2>Rail Covers</h2>
         <a href="PASTE_LINK" target="_blank">Buy Now – $24.99</a>
       </div>
 
-      <div style={{ margin: "100px" }}>
+      <div style={{ margin: "50px" }}>
         <h2>Barricade Stop</h2>
         <a href="PASTE_LINK" target="_blank">Buy Now – $14.99</a>
       </div>
 
-      <div style={{ margin: "100px" }}>
+      <div style={{ margin: "50px" }}>
         <h2>QD Sling Mount</h2>
         <a href="PASTE_LINK" target="_blank">Buy Now – $12.99</a>
       </div>
