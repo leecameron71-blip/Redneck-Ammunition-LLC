@@ -34,7 +34,7 @@ export default function App() {
     {
       name: "M-LOK Hand Stop",
       price: "$14.99",
-      link: "PASTE_HAND_STOP_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/m-lok-mounting-kit-ar15-mlok-hardware-set-rail-attachment-system-tactical-accessories-lightweight-durable-5-pack-redneck-ammunition/LESC4JGK4CAZNJWY5KNPENUO?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Rail Covers",
