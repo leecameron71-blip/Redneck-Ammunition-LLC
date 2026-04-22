@@ -17,6 +17,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px",
       marginTop: "10px",
+      marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -37,6 +38,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px"
       marginTop: "10px",
+    marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -57,6 +59,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px",
       marginTop: "10px",
+      marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -76,6 +79,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px",
       marginTop: "10px",
+      marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -96,6 +100,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px",
       marginTop: "10px",
+      marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -115,6 +120,7 @@ export default function App() {
       textDecoration: "none",
       borderRadius: "6px",
       marginTop: "10px",
+      marginBottom: "20px",
       display: "inline-block"
     }}
   >
@@ -134,6 +140,7 @@ export default function App() {
             textDecoration: "none",
             borderRadius: "6px",
             marginTop: "10px",
+            marginBottom: "20px",
        display: "inline-block"
           }}
         >
