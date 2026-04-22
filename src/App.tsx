@@ -77,14 +77,7 @@ export default function App() {
                 textAlign: "center",
                 boxShadow: "0 4px 12px rgba(0,0,0,0.35)",
               }}
-            ><img 
-  src="PASTE_IMAGE_URL_HERE" 
-  style={{ 
-    width: "100%", 
-    borderRadius: "8px", 
-    marginBottom: "15px" 
-  }} 
-/>
+            >
               <h2
                 style={{
                   fontSize: "24px",
