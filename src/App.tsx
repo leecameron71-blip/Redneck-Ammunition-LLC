@@ -15,7 +15,9 @@ export default function App() {
       background: "red",
       color: "white",
       textDecoration: "none",
-      borderRadius: "6px"
+      borderRadius: "6px",
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $24.99
@@ -34,6 +36,8 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $14.99
@@ -52,6 +56,8 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $12.99
@@ -69,6 +75,8 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $14.99
@@ -87,6 +95,8 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $16.99
@@ -104,6 +114,8 @@ export default function App() {
       color: "white",
       textDecoration: "none",
       borderRadius: "6px"
+      marginTop: "10px"
+      display: "inline-block"
     }}
   >
     Buy Now – $24.99
@@ -121,6 +133,8 @@ export default function App() {
             color: "white",
             textDecoration: "none",
             borderRadius: "6px"
+            marginTop: "10px"
+       display: "inline-block"
           }}
         >
           Buy Now – $14.99
