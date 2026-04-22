@@ -7,8 +7,9 @@ export default function App() {
       <div style={{ margin: "30px" }}>
         <h2>M-LOK Hand Stop</h2>
         <a
-          href="https://redneck-ammunition-llc.square.site/product/ar15-display-stand-rifle-stand-for-ar-platform-gun-display-stand-redneck-ammunition/RGRPRQWONNIJGEB4WJJAYMQF?cp=true&sa=true&sbp=false&q=false"
+          href="https://redneck-ammunition-llc.square.site/product/m-lok-mounting-kit-ar15-mlok-hardware-set-rail-attachment-system-tactical-accessories-lightweight-durable-5-pack-redneck-ammunition/LESC4JGK4CAZNJWY5KNPENUO?cp=true&sa=true&sbp=false&q=false"
           target="_blank"
+         rel="noopener noreferrer"
           style={{
             padding: "12px 20px",
             background: "red",
@@ -17,7 +18,7 @@ export default function App() {
             borderRadius: "6px"
           }}
         >
-          Buy Now – $14.99
+          Buy Now – $24.99
         </a>
       </div>
 
