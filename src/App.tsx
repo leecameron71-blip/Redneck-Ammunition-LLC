@@ -3,6 +3,24 @@ export default function App() {
     <div style={{ textAlign: "center", background: "#111", color: "white", padding: "40px" }}>
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
+<div style={{ margin: "30px" }}>
+  <h2>Tactical Rifle Stop</h2>
+
+  <a
+    href="https://redneck-ammunition-llc.square.site/product/m-lok-barricade-stop-for-ar15-tactical-rifle-stop-precision-shooting-support-low-profile-rail-stop-tough-resin-redneck-ammunition/HO4KRXNUTPAQEVRN63DXABHJ?cp=true&sa=true&sbp=false&q=false"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      padding: "12px 20px",
+      background: "red",
+      color: "white",
+      textDecoration: "none",
+      borderRadius: "6px"
+    }}
+  >
+    Buy Now – $14.99
+  </a>
+</div>
       <div style={{ margin: "30px" }}>
   <h2>Rifle Wall Holder</h2>
 
