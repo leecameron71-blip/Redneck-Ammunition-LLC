@@ -76,6 +76,8 @@ export default function App() {
                 padding: "24px 20px",
                 textAlign: "center",
                 boxShadow: "0 4px 12px rgba(0,0,0,0.35)",
+                 transition: "0.2s",
+  cursor: "pointer"
               }}
             >
               <h2
@@ -95,7 +97,7 @@ export default function App() {
                 rel="noopener noreferrer"
                 style={{
                   display: "inline-block",
-                  padding: "12px 20px",
+                  padding: "14px 24px",
                   background: "red",
                   color: "white",
                   textDecoration: "none",
