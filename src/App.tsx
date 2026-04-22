@@ -8,7 +8,8 @@ export default function App() {
     {
       name: "Low Profile Angled Grip",
       price: "$14.99",
-      link: "PASTE_ANGLED_GRIP_LINK_HERE",
+      link: "
+        https://redneck-ammunition-llc.square.site/product/m-lok-hand-stop-for-ar15-low-profile-angled-grip-tactical-rail-stop-lightweight-rifle-control-redneck-ammunition/GSUGXR6722XBAZUTYAOOQAFL?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Quick Detach Sling Adapter",
