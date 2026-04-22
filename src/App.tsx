@@ -3,10 +3,26 @@ export default function App() {
     <div style={{ textAlign: "center", background: "#111", color: "white", padding: "40px" }}>
       <h1>Redneck Ammunition</h1>
       <p>Built for performance. Designed for control.</p>
-      
-<div style={{ margin: "30px" }}>
+      <div style={{ margin: "30px" }}>
   <h2>PRODUCT NAME</h2>
 
+  <a
+    href="https://redneck-ammunition-llc.square.site/product/ar15-wall-mount-rifle-wall-holder-m-lok-compatible-gun-mount-tactical-storage-display-space-saving-rifle-rack-redneck-ammunition/L2O5DLPWHHACWX6LYN3DUPPA?cp=true&sa=true&sbp=false&q=false"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      padding: "12px 20px",
+      background: "red",
+      color: "white",
+      textDecoration: "none",
+      borderRadius: "6px"
+    }}
+  >
+    Buy Now – $XX.XX
+  </a>
+</div>
+<div style={{ margin: "30px" }}>
+  <h2>Rifle Stand</h2>
   <a
     href="https://redneck-ammunition-llc.square.site/product/ar15-display-stand-rifle-stand-for-ar-platform-gun-display-stand-redneck-ammunition/RGRPRQWONNIJGEB4WJJAYMQF?cp=true&sa=true&sbp=false&q=false"
     target="_blank"
@@ -19,7 +35,7 @@ export default function App() {
       borderRadius: "6px"
     }}
   >
-    Buy Now – $XX.XX
+    Buy Now – $24.99
   </a>
 </div>
       <div style={{ margin: "30px" }}>
