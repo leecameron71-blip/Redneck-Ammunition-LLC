@@ -19,7 +19,7 @@ export default function App() {
     {
       name: "Tactical Rifle Stop",
       price: "$14.99",
-      link: "PASTE_BARRICADE_STOP_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/m-lok-barricade-stop-for-ar15-tactical-rifle-stop-precision-shooting-support-low-profile-rail-stop-tough-resin-redneck-ammunition/HO4KRXNUTPAQEVRN63DXABHJ?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Rifle Wall Holder",
