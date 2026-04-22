@@ -14,7 +14,7 @@ export default function App() {
     {
       name: "Quick Detach Sling Adapter",
       price: "$12.99",
-      link: "PASTE_QD_SLING_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/m-lok-qd-sling-mount-for-ar15-quick-detach-sling-adapter-tactical-sling-attachment-point-low-profile-tough-resin-redneck-ammunition/HJG6TFJXJLVMFDIMXJDHD5S7?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Tactical Rifle Stop",
