@@ -24,7 +24,7 @@ export default function App() {
     {
       name: "Rifle Wall Holder",
       price: "$16.99",
-      link: "PASTE_WALL_MOUNT_LINK_HERE",
+      link: "https://redneck-ammunition-llc.square.site/product/ar15-wall-mount-rifle-wall-holder-m-lok-compatible-gun-mount-tactical-storage-display-space-saving-rifle-rack-redneck-ammunition/L2O5DLPWHHACWX6LYN3DUPPA?cp=true&sa=true&sbp=false&q=false",
     },
     {
       name: "Rifle Stand",
